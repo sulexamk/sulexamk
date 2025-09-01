@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi 👋 I'm Susanna
 
-<!--
-**sulexamk/sulexamk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BBA Student in Business Information Technology (Xamk)**  
+💼 **Procurement Specialist** at the Wellbeing Services County of Southwest Finland  
+🌱 Learning **application development, AI, UI/UX design, and web development**  
+✨ Especially interested in **user-centered solutions** and **visual design**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Skills & Tools
+- HTML, CSS  
+- TypeScript & React (beginner level, learning in progress)  
+- UI/UX fundamentals  
+- Procurement & project management experience 
+
+---
+
+### 📚 Current Focus
+- Building **study projects** in application and web development  
+- Exploring **AI-assisted learning**  
+- Practicing **UI design and prototyping**  
+
+---
+
+### 🌍 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/susanna-lehimo-abbb24381/)  
+
+---
+
+💡 *This GitHub profile is mainly for my study projects and practice. I’m excited to keep learning and building step by step!*
+
