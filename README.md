@@ -8,7 +8,7 @@
 ---
 
 ### 🔧 Skills & Tools 
-(beginner level, learning in progress) 
+Beginner level, learning in progress 
 - HTML, CSS  
 - TypeScript & React  
 - UI/UX fundamentals  
