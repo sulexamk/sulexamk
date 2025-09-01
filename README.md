@@ -7,11 +7,12 @@
 
 ---
 
-### 🔧 Skills & Tools
+### 🔧 Skills & Tools 
+(beginner level, learning in progress) 
 - HTML, CSS  
-- TypeScript & React (beginner level, learning in progress)  
+- TypeScript & React  
 - UI/UX fundamentals  
-- Procurement & project management experience 
+ 
 
 ---
 
